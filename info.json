@@ -1,0 +1,10 @@
+{
+    "Id": "NoFilmGrain",
+    "DisplayName": "NoFilmGrain",
+    "Author": "Hambeard",
+    "Version": "1.0.0",
+    "ManagerVersion": "0.18.0",
+    "Requirements": [],
+    "AssemblyName": "NoFilmGrain.dll",
+    "EntryMethod": "NoFilmGrain.Main.Load"
+}
